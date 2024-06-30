@@ -1,2 +1,2 @@
 ### why so blank?
-check the left replit repo
+check the replit repo present on the left
