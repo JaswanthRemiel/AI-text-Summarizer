@@ -1,6 +1,5 @@
 # AI Text Summarizer
-<br>![Website](https://img.shields.io/website?url=https%3A%2F%2Fremiel.fyi%2Fai-summarizer) ![GitHub License](https://img.shields.io/github/license/jaswanthremiel/AI-text-Summarizer) ![Maintenance](https://img.shields.io/maintenance/no/2024)
-
+<br>![Website](https://img.shields.io/website?url=https%3A%2F%2Fremiel.fyi%2Fai-summarizer) ![GitHub License](https://img.shields.io/github/license/jaswanthremiel/AI-text-summarizer) ![Maintenance](https://img.shields.io/maintenance/no/2024)
 
 AI Text Summarizer is a Node.js-based server-side rendering application designed to provide users with concise summaries of lengthy texts. Leveraging the advanced capabilities of Hugging Face's Facebook BART model, this project efficiently processes input text and generates meaningful summaries. The application features a user-friendly interface that allows users to easily enter text and receive summaries with just a click. Built using Express for web framework support, it ensures fast and secure data handling. This project not only aims to enhance productivity by distilling information but also prioritizes user privacy, making it an ideal tool for anyone needing quick insights from larger documents
 ## Table of Contents
